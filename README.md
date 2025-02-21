@@ -31,7 +31,7 @@ Ensure you have:
 ### Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/crypto-savings-vault.git
+git clone https://github.com/HimanshuSutha/crypto-savings-vault.git
 cd crypto-savings-vault
 ```
 
